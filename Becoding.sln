@@ -5,8 +5,6 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quan_Ly_Thue_Xe_Khu_Du_Lich", "Quan_Ly_Thue_Xe_Khu_Du_Lich\Quan_Ly_Thue_Xe_Khu_Du_Lich.vcxproj", "{2AD2E870-259B-4A3C-B84B-40D437A68973}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quan_Ly_Nhan_Vien_2", "Quan_Ly_Nhan_Vien_2\Quan_Ly_Nhan_Vien_2.vcxproj", "{421A6118-7824-444C-8FCB-646007A99485}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quan_Ly_Thu_Vien", "Quan_Ly_Thu_Vien\Quan_Ly_Thu_Vien.vcxproj", "{AA1BE959-1590-44D9-B041-A94E282E39E4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biến_Hằng_Toán tử", "Biến_Hằng_Toán tử\Biến_Hằng_Toán tử.vcxproj", "{1D93C764-ED77-44D9-A736-FD197E72C2D3}"
@@ -145,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DSLK", "DSLK\DSLK.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game_ran_san_moi", "Snake_Game_Cplusplus\Game_ran_san_moi.vcxproj", "{2C2326B8-B983-4BC0-B934-459D4CA29D87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quan_ly_nhan_vien_new", "Quan_ly_nhan_vien_new\Quan_ly_nhan_vien_new.vcxproj", "{60D6135B-BD86-4082-B566-01241445B86C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,14 +161,6 @@ Global
 		{2AD2E870-259B-4A3C-B84B-40D437A68973}.Release|x64.Build.0 = Release|x64
 		{2AD2E870-259B-4A3C-B84B-40D437A68973}.Release|x86.ActiveCfg = Release|Win32
 		{2AD2E870-259B-4A3C-B84B-40D437A68973}.Release|x86.Build.0 = Release|Win32
-		{421A6118-7824-444C-8FCB-646007A99485}.Debug|x64.ActiveCfg = Debug|x64
-		{421A6118-7824-444C-8FCB-646007A99485}.Debug|x64.Build.0 = Debug|x64
-		{421A6118-7824-444C-8FCB-646007A99485}.Debug|x86.ActiveCfg = Debug|Win32
-		{421A6118-7824-444C-8FCB-646007A99485}.Debug|x86.Build.0 = Debug|Win32
-		{421A6118-7824-444C-8FCB-646007A99485}.Release|x64.ActiveCfg = Release|x64
-		{421A6118-7824-444C-8FCB-646007A99485}.Release|x64.Build.0 = Release|x64
-		{421A6118-7824-444C-8FCB-646007A99485}.Release|x86.ActiveCfg = Release|Win32
-		{421A6118-7824-444C-8FCB-646007A99485}.Release|x86.Build.0 = Release|Win32
 		{AA1BE959-1590-44D9-B041-A94E282E39E4}.Debug|x64.ActiveCfg = Debug|x64
 		{AA1BE959-1590-44D9-B041-A94E282E39E4}.Debug|x64.Build.0 = Debug|x64
 		{AA1BE959-1590-44D9-B041-A94E282E39E4}.Debug|x86.ActiveCfg = Debug|Win32
@@ -721,6 +713,14 @@ Global
 		{2C2326B8-B983-4BC0-B934-459D4CA29D87}.Release|x64.Build.0 = Release|x64
 		{2C2326B8-B983-4BC0-B934-459D4CA29D87}.Release|x86.ActiveCfg = Release|Win32
 		{2C2326B8-B983-4BC0-B934-459D4CA29D87}.Release|x86.Build.0 = Release|Win32
+		{60D6135B-BD86-4082-B566-01241445B86C}.Debug|x64.ActiveCfg = Debug|x64
+		{60D6135B-BD86-4082-B566-01241445B86C}.Debug|x64.Build.0 = Debug|x64
+		{60D6135B-BD86-4082-B566-01241445B86C}.Debug|x86.ActiveCfg = Debug|Win32
+		{60D6135B-BD86-4082-B566-01241445B86C}.Debug|x86.Build.0 = Debug|Win32
+		{60D6135B-BD86-4082-B566-01241445B86C}.Release|x64.ActiveCfg = Release|x64
+		{60D6135B-BD86-4082-B566-01241445B86C}.Release|x64.Build.0 = Release|x64
+		{60D6135B-BD86-4082-B566-01241445B86C}.Release|x86.ActiveCfg = Release|Win32
+		{60D6135B-BD86-4082-B566-01241445B86C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
