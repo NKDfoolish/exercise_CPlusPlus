@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\QuanLyNhanVien\Source.cpp(132,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  QuanLyNhanVien.vcxproj -> D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\x64\Debug\QuanLyNhanVien.exe

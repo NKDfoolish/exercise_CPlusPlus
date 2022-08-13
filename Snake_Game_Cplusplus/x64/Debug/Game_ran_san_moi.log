@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(41,13): warning C4309: 'initializing': truncation of constant value
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(42,13): warning C4309: 'initializing': truncation of constant value
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(43,13): warning C4309: 'initializing': truncation of constant value
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(44,13): warning C4309: 'initializing': truncation of constant value
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(45,13): warning C4309: 'initializing': truncation of constant value
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Snake_Game_Cplusplus\Source.cpp(46,13): warning C4309: 'initializing': truncation of constant value
+  Game_ran_san_moi.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\Game_ran_san_moi.exe

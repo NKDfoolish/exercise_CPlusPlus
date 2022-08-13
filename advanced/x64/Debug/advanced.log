@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\advanced\Source.cpp(24,6): warning C4101: 'count2': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\advanced\Source.cpp(21,6): warning C4101: 'a': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\advanced\Source.cpp(22,6): warning C4101: 'a2': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\advanced\Source.cpp(23,6): warning C4101: 'count': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\advanced\Source.cpp(20,7): warning C4101: 'c2': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\advanced\Source.cpp(98,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  advanced.vcxproj -> D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\x64\Debug\advanced.exe

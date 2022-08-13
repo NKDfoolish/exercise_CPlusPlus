@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\Pointer\Source.cpp(15,14): warning C4101: 'vtt': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\Pointer\Source.cpp(15,19): warning C4101: 'gt': unreferenced local variable
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\Pointer\Source.cpp(15,9): warning C4101: 'vtx': unreferenced local variable
+  Pointer.vcxproj -> D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\x64\Debug\Pointer.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\xu_ly_chuoi_bang_String\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\xu_ly_chuoi_bang_String\Source.cpp(32,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\xu_ly_chuoi_bang_String\Source.cpp(72,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  xu_ly_chuoi_bang_String.vcxproj -> D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\x64\Debug\xu_ly_chuoi_bang_String.exe

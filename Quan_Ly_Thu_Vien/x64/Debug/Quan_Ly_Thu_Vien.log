@@ -1,0 +1,9 @@
+﻿  CDocGia.cpp
+  CDocGiaNguoiLon.cpp
+  CDocGiaTreEm.cpp
+  CThuVien.cpp
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\Quan_Ly_Thu_Vien\CThuVien.cpp(9,11): warning C4129: '=': unrecognized character escape sequence
+D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\Quan_Ly_Thu_Vien\CThuVien.cpp(13,11): warning C4129: '=': unrecognized character escape sequence
+  Sourcee.cpp
+  Generating Code...
+  Quan_Ly_Thu_Vien.vcxproj -> D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\x64\Debug\Quan_Ly_Thu_Vien.exe

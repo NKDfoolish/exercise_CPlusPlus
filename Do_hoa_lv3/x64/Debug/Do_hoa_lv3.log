@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Do_hoa_lv3\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Do_hoa_lv3\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Do_hoa_lv3\Source.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Do_hoa_lv3\Source.cpp(42,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Do_hoa_lv3.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\Do_hoa_lv3.exe
