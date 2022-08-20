@@ -4,7 +4,7 @@
 using namespace std;
 int toa_dox[MAX] = {};
 int toa_doy[MAX] = {};
-int sl = 10;
+int sl = 4;
 int x_Qua = -1;
 int y_Qua = -1;
 //---------------------------------
@@ -132,10 +132,10 @@ void play() {
 		//--------- speed --------
 		if (check == 2 || check == 3)
 		{
-			Sleep(500);
+			Sleep(75);
 		}
 		else {
-			Sleep(500);
+			Sleep(115);
 		}
 	}
 }
