@@ -142,7 +142,9 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mylib.h" />
+    <ClInclude Include="ctdl.h" />
+    <ClInclude Include="load_file.h" />
+    <ClInclude Include="xu_ly.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

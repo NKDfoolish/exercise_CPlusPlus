@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\de_tai_giua_khoa\ctdl.h(19,2): warning C4091: 'typedef ': ignored on left of 'danh_sach_mon_hoc' when no variable is declared
+D:\UIT\Dream\Code\visual studio 2022\Becoding\de_tai_giua_khoa\ctdl.h(46,2): warning C4091: 'typedef ': ignored on left of 'sinh_vien' when no variable is declared
+D:\UIT\Dream\Code\visual studio 2022\Becoding\de_tai_giua_khoa\ctdl.h(70,2): warning C4091: 'typedef ': ignored on left of 'danh_sach_lop' when no variable is declared
+  de_tai_giua_khoa.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\de_tai_giua_khoa.exe

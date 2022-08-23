@@ -20,7 +20,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="mylib.h">
+    <ClInclude Include="ctdl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="load_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xu_ly.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

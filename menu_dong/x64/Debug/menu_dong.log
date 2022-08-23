@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\menu_dong\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\UIT\Dream\Code\visual studio 2022\Becoding\menu_dong\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  menu_dong.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\menu_dong.exe
