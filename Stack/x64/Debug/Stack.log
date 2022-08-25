@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Stack\Source.cpp(102): warning C4715: 'top': not all control paths return a value
+  Stack.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\Stack.exe
