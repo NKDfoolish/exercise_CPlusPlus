@@ -17,7 +17,7 @@ void load_file_ds_mh(danh_sach_mon_hoc& ds_mh) {
 	{
 		mon_hoc a;
 		getline(fi, a.ma_mh, ',');
-		getline(fi, a.ten_mh,',');
+		getline(fi, a.ten_mh, ',');
 		fi >> a.stclt;
 		fi.ignore();// bo ,
 		fi >> a.stcth;

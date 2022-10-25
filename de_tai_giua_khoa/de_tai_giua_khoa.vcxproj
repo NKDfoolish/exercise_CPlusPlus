@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e00c3474-db2c-440b-9291-a000520d6bab}</ProjectGuid>
-    <RootNamespace>detaigiuakhoa</RootNamespace>
+    <ProjectGuid>{60394943-3c32-4ef9-9428-2fae55ece7a6}</ProjectGuid>
+    <RootNamespace>Detaigiuakhoa</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,12 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClInclude Include="ctdl.h" />
+    <ClInclude Include="load_file.h" />
+    <ClInclude Include="xuly.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Nhap\ctdl.h" />
-    <ClInclude Include="..\Nhap\load_file.h" />
-    <ClInclude Include="..\Nhap\xu_ly.h" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

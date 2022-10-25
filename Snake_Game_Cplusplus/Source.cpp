@@ -132,10 +132,10 @@ void play() {
 		//--------- speed --------
 		if (check == 2 || check == 3)
 		{
-			Sleep(75);
+			Sleep(50);
 		}
 		else {
-			Sleep(115);
+			Sleep(125);
 		}
 	}
 }
@@ -157,7 +157,7 @@ void ve_Ran() {
 			cout << head;
 		}
 		else {
-			cout << "o";
+			cout << "*";
 		}
 	}
 }
@@ -201,7 +201,7 @@ void tao_Qua() {
 }
 void ve_Qua() {
 	gotoXY(x_Qua, y_Qua);
-	cout << "$";
+	cout << "*";
 }
 bool kiem_Tra_Ran_An_Qua() {
 	return (toa_dox[0] == x_Qua && toa_doy[0] == y_Qua);

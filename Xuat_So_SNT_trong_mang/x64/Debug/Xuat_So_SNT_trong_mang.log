@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\Xuat_So_SNT_trong_mang\Source.cpp(49): warning C4715: 'KT_SNT': not all control paths return a value
-  Xuat_So_SNT_trong_mang.vcxproj -> D:\UIT\Dream\BeCoding\visual studio 2022\Becoding\x64\Debug\Xuat_So_SNT_trong_mang.exe
+D:\UIT\Dream\Code\visual studio 2022\Becoding\Xuat_So_SNT_trong_mang\Source.cpp(49): warning C4715: 'KT_SNT': not all control paths return a value
+  Xuat_So_SNT_trong_mang.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\Xuat_So_SNT_trong_mang.exe

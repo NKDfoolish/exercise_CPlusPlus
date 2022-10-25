@@ -52,13 +52,13 @@ bool check_SSNT(int x)
 	int m = x;
 	while (m != 0)
 	{
-		if (KT_SNT(m % 10) == false)
+		if (KT_SNT(m) == true)
 		{
-			return false;
+			m = m / 10;
 		}
 		else
 		{
-			m = m / 10;
+			return false;
 		}
 	}
 	return true;

@@ -15,6 +15,9 @@ node* khoi_tao_node(int x);
 void them(tree& t, int x);
 void NLR(tree t);
 void load_file(tree& t);
+void liet_ke(tree t);
+void node_the_mang(node*& k, tree& t);
+void xoa(tree& t, int x);
 //=======================
 
 int main() {
@@ -29,6 +32,8 @@ int main() {
 		system("cls");
 		cout << "1. Them phan tu" << endl;
 		cout << "2. Xuat phan tu (NLR)" << endl;
+		cout << "3. Liet ke loai node" << endl;
+		cout << "4. Xoa" << endl;
 		cout << "0. Thoat khoi chuong trinh" << endl;
 
 		int lc; cout << "Nhap lua chon: "; cin >> lc;
@@ -51,6 +56,19 @@ int main() {
 			NLR(t);
 			cout << endl << endl;
 			system("pause");
+			break;
+		}
+		case 3:
+		{
+			liet_ke(t);
+			system("pause");
+			break;
+		}
+		case 4:
+		{
+			int x;
+			cout << "Nhap gia tri can xoa: " ; cin >> x;
+			xoa(t, x);
 			break;
 		}
 		case 0:
@@ -100,4 +118,54 @@ void load_file(tree& t) {
 		them(t, x);
 	}
 	fi.close();
+}
+void liet_ke(tree t) {
+	if (t != NULL) {
+		if (t->pleft == NULL && t->pright == NULL) {
+			cout << "Node la: " << t->data << endl;
+		}
+		else if(t->pleft != NULL && t->pright != NULL) {
+			cout << "Node 2 con: " << t->data << endl;
+		}
+		else {
+			cout << "Node 1 con: " << t->data << endl;
+		}
+		liet_ke(t->pleft);
+		liet_ke(t->pright);
+	}
+}
+void node_the_mang(node*& k, tree& t) {
+	if (k->pright == NULL) {
+		t->data = k->data;
+		node* tam = k;
+		k = k->pleft;
+		delete tam;
+	}
+	else {
+		node_the_mang(k->pright, t);
+	}
+}
+void xoa(tree& t, int x) {
+	if (t != NULL) {
+		if (t->data == x) {
+			if (t->pleft == NULL && t->pright == NULL) {
+				delete t;
+				t = NULL;
+			}
+			else if (t->pleft != NULL && t->pright != NULL) {
+				node_the_mang(t->pleft, t);
+			}
+			else {
+				node* tam = t;
+				t = (t->pleft != NULL) ? t->pleft : t->pright;
+				delete tam;
+			}
+		}
+		else if (x > t->data) {
+			xoa(t->pright, x);
+		}
+		else if (x < t->data) {
+			xoa(t->pleft, x);
+		}
+	}
 }
