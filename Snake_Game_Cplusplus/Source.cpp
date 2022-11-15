@@ -214,6 +214,3 @@ void xu_Ly_Ran_An_Qua() {
 		ve_Qua();
 	}
 }
-/*
-"Hành trình vạn dặm bắt đầu từ một bước chân" ~ lão Tử
-*/
