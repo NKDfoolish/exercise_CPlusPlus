@@ -1,0 +1,4 @@
+﻿  baitap.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\ExercisesCs1_1\baitap.cpp(91,6): warning C4101: 'm': unreferenced local variable
+D:\UIT\Dream\Code\visual studio 2022\Becoding\ExercisesCs1_1\baitap.cpp(91,9): warning C4101: 'n': unreferenced local variable
+  ExercisesCs1_1.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\ExercisesCs1_1.exe

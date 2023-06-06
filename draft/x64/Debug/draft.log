@@ -1,2 +1,4 @@
-﻿  Source.cpp
+﻿  Source5.cpp
+D:\UIT\Dream\Code\visual studio 2022\Becoding\draft\Source5.cpp(64,9): warning C4101: 'dem': unreferenced local variable
+D:\UIT\Dream\Code\visual studio 2022\Becoding\draft\Source5.cpp(65,9): warning C4101: 'daonguoc': unreferenced local variable
   draft.vcxproj -> D:\UIT\Dream\Code\visual studio 2022\Becoding\x64\Debug\draft.exe
